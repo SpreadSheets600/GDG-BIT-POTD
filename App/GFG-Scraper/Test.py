@@ -1,4 +1,4 @@
-from App.GFG.POTD import *
+from POTD import *
 
 result = get_div_content("potdTourStep1")
 
